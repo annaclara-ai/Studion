@@ -1,5 +1,3 @@
-# Studion
-
 ## How to work with the repository / Como trabalhar com o repositório
 
 ### Clone the project / Clone o projeto
